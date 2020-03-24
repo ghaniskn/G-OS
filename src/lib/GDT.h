@@ -1,0 +1,1 @@
+void GDT_initialize();
